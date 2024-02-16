@@ -9,9 +9,10 @@
 /* Colors */
 
 :root {
-  --first-color: #4070f4;
-  --second-color: #0e2431;
-  --gardient-color: linear-gradient(to right, #5001fb, #8e0af3);
+  --first-color:#57544e;
+  --second-color:#097264;
+  --gardient-color: linear-gradient(to right, #13a065, #13a065);
+  
 }
 
 /* FONT STYLE */
